@@ -1,0 +1,4 @@
+function consolelog() {
+   var text = 
+
+}

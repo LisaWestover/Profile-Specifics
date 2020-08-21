@@ -1,0 +1,25 @@
+
+body {
+    color: green;
+}
+
+div {
+    font-size: 165px;
+}
+
+a {
+    color: lightcoral;
+}
+
+#header-4 {
+    color: rgb(168, 24, 24);
+}
+
+.header {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 400px;
+}
+
