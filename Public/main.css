@@ -1,25 +1,39 @@
 
 body {
-    color: green;
+    background-color: #e79696;    
+    color: rgb(27, 21, 78);
+
 }
 
 div {
-    font-size: 165px;
+    font-size: 22px;
 }
 
+
 a {
-    color: lightcoral;
+    color: purple;
 }
 
 #header-4 {
-    color: rgb(168, 24, 24);
+    color: rgb(81, 124, 153);
+
+}
+
+#header-5 {
+    color: rgb(137, 15, 148);
+    
+
+}
+#header-8 {
+    color: rgb(94, 6, 54)
 }
 
 .header {
     text-decoration: underline;
+    
 }
 
 img {
-    max-width: 400px;
+    max-width: 900px;
 }
 
